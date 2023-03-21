@@ -1,6 +1,5 @@
 
-# Hi Dear, 
-I am Hudson Sena.
+# Hi Dear, I am Hudson Sena.
 
 
 ### About
