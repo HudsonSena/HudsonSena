@@ -4,7 +4,7 @@
 
 ### About
 
-i am front-end developer.
+I am front-end developer.
 And studing web developer at [Rocketseat](https://www.rocketseat.com.br/).
 
 ### Current Stack
