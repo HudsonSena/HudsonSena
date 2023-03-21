@@ -9,7 +9,7 @@ And studing web developer at [Rocketseat](https://www.rocketseat.com.br/).
 
 ### Current Stack
 
--  Main Language: 'JavaScript'
+- ⚡️ Main Language: 'JavaScript'
 - 🐍 Second Language: 'Python'
 - 📡 Backend: 'Node.js'
 - 💎 Frontend: 'React.js', 'HTML5', 'CSS3', 'JavaScript'
