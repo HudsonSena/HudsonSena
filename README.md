@@ -12,10 +12,10 @@ And studing web developer at [Rocketseat](https://www.rocketseat.com.br/).
 - ⚡️ Main Language: 'JavaScript'
 - 🐍 Second Language: 'Python'
 - 📡 Backend: 'Node.js'
-- 💎 Frontend: 'React.js', 'Next.js', 'JavaScript', 'HTML5', 'CSS3', 'TailwindCSS'
+- 💎 Frontend: |React.js|Next.js|JavaScript|HTML5|CSS3', 'TailwindCSS'
 - 🎨 Layout Design: 'Figma'
 - 🔧 Version code control: 'Git & Github'
-- 👨‍💻 Tools: 'VsCode', PyCharme
+- 👨‍💻 Tools: 'VsCode', 'PyCharm'
 
 ### Contact
 
