@@ -1,8 +1,5 @@
 
-# Hi Dear, I am Hudson Sena.
-
-https://hudsonsena.github.io/landing-page-hs/
-
+# Hi Dear, I am [Hudson Sena](https://hudsonsena.github.io/landing-page-hs/).
 
 ### About
 
