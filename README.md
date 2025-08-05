@@ -1,10 +1,11 @@
 
 # Hi Dear, I am [Hudson Sena](https://hudsonsena.github.io/landing-page-hs/).
 
-### About
+## About
 
 I am front-end developer.
-And studing web developer at [Rocketseat](https://www.rocketseat.com.br/).
+### Software Engineering student at the Universidade Federal Rural do Semi-Árido - UFERSA
+### Studing web developer at [Rocketseat](https://www.rocketseat.com.br/).
 
 ### Current Stack
 
