@@ -10,9 +10,9 @@ I am front-end developer.
 ### Current Stack
 
 - ⚡️ Main Language: 'JavaScript'
-- 🐍 Second Language: 'Python'
+- 🐍 Second Language: 'C' | 'Python'
 - 📡 Backend: 'Node.js'
-- 💎 Frontend: React.js | Next.js | JavaScript | HTML5 | CSS3 | TailwindCSS
+- 💎 Frontend: 'React.js' | 'Next.js' | 'JavaScript' | 'HTML5' | 'CSS3' | 'TailwindCSS'
 - 🎨 Layout Design: 'Figma'
 - 🔧 Version code control: 'Git & Github'
 - 👨‍💻 Tools: 'VsCode', 'PyCharm'
