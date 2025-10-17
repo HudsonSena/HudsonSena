@@ -20,4 +20,4 @@ I am front-end developer.
 ### Contact
 
 - 📪 E-mail: hudsonsena93@gmail.com
-- 👤 [linkedIn](https://www.linkedin.com/in/hudson-diego-de-oliveira-sena-890a72173/?locale=en_US)
+- 👤 [linkedIn](https://www.linkedin.com/in/hudson-sena-890a72173/)
