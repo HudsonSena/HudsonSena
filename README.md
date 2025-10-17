@@ -15,7 +15,7 @@ I am front-end developer.
 - 💎 Frontend: 'React.js' | 'Next.js' | 'JavaScript' | 'HTML5' | 'CSS3' | 'TailwindCSS'
 - 🎨 Layout Design: 'Figma'
 - 🔧 Version code control: 'Git & Github'
-- 👨‍💻 Tools: 'VsCode', 'PyCharm'
+- 👨‍💻 Tools: 'VsCode' | 'PyCharm' | 'intellij'
 
 ### Contact
 
